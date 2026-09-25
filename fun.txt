@@ -1,2 +1,4 @@
 Type your name and a fun fact about yourself
 in a new text file!
+
+My name is Nehemiah, a fun fact about me is that I like to play soccer
