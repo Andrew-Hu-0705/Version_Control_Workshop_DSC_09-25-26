@@ -1,1 +1,1 @@
-Follow the Instructions in fun.txt
+Follow the Instructions in fun.txt!
